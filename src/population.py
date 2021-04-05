@@ -1,3 +1,5 @@
+# author David Omrai
+
 from individual import Individual, IndividualRandomFunction
 import numpy as np
 from numpy_array import NPArray
