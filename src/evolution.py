@@ -1,3 +1,5 @@
+# author David Omrai
+
 from individual import Individual
 from population import Population
 from numpy_array import NPArray
