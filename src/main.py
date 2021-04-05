@@ -1,3 +1,5 @@
+# author David Omrai
+
 from evolution import Evolution
 import individual
 import sys
