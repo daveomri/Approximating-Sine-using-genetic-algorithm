@@ -1,3 +1,5 @@
+# author David Omrai
+
 import numpy as np
 
 class NPArray:
